@@ -1,6 +1,6 @@
 # Visualize and Paint GAN Activations
 
-Visualize and Paint GAN Activations, to appear in MLSP 2024 [[arxiv](https://arxiv.org/pdf/2405.15636)]
+Visualize and Paint GAN Activations, to appear in MLSP 2024 [[arxiv](https://arxiv.org/abs/2405.15636)]
 
 `example.ipynb` shows an example on how to visualize an activation vector (a pixel out of a hidden layer of a GAN), and shows an example for a non-tileable and tileable feature.
 
